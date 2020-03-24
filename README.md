@@ -17,4 +17,14 @@ ___粗斜体文字___
 
 > 区块引用  
 > 菜鸟教程  
-> 学的不仅是技术更是梦想
+> 学的不仅是技术更是梦想  
+
+```c
+#include <stdio.h>
+
+int main()
+{
+  printf("hello world\n");
+  return 0;
+}
+```

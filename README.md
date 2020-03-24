@@ -1,4 +1,10 @@
-### 机器学习
+### 机器学习  
+
+# 一级标题
+## 二级标题
+### 三级标题
+#### 四级标题
+
 学习markdown  
 
 _斜体文字_  
@@ -30,3 +36,6 @@ int main()
 ```
 
 这是一个链接 [百度](https://www.baidu.com)
+
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
